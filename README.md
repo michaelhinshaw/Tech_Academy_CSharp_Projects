@@ -1,2 +1,3 @@
-Console Applications solving certain problems associated with shipping, accounting, and multiple conditions.
+Console Applications in C# solving problems associated with testing multiple conditions.
+
 
