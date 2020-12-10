@@ -1,1 +1,2 @@
-# Tech_Academy_CSharp_Projects
+Console Applications solving certain problems associated with shipping, accounting, and multiple conditions.
+
